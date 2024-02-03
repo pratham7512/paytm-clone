@@ -2,7 +2,7 @@
 ### Build a basic version of PayTM
 
 
-[!Screenshot] (./frontend/src/assets)
+[!Screenshot](./frontend/src/assets/Screenshot.png)
 
 
 ## description
