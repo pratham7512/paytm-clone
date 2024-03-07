@@ -12,7 +12,7 @@ export function Signup(){
     const [password, setPassword]=useState('John')
     const navigate=useNavigate();
 
-    return <div class="flex justify-center items-center h-screen bg-white">
+    return <div class="flex justify-center items-center h-screen bg-slate-200">
         <div class='flex flex-col items-center w-72 h-4/6 bg-white rounded-md shadow-xl'>
             <div class='text-center text-black text-4xl font-bold pt-6 pb-3'>Sign Up</div>
             <div class="text-center w-72">Enter your information to create an account</div>
